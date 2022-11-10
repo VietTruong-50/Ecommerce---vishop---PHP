@@ -1,0 +1,22 @@
+<?php
+
+return [
+    'access' => [
+        'list-category' => 'list_category',
+        'list-menu' => 'list_menu',
+    ],
+    'table-module' => [
+        'category',
+        'menu',
+        'slider',
+        'user',
+        'setting',
+        'product',
+    ],
+    'module-children' => [
+        'list',
+        'add',
+        'edit',
+        'delete'
+    ]
+];

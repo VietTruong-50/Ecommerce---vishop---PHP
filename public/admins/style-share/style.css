@@ -1,0 +1,16 @@
+.alert-danger{
+    margin-top: 10px;
+    padding: 5px 6px;
+}
+
+.product_img_150_100{
+    width: 150px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.select2-selection__choice{
+    background-color: #232b25 !important;
+}
+
+
